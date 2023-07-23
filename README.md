@@ -1,2 +1,3 @@
 # thread-pool-demo
-A simple C++ thread pool
+
+一个简易的 C++ 11 线程池
